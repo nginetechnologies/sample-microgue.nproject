@@ -1,0 +1,33 @@
+{
+    "43ef0cfe-1c60-8d6a-70ca-35f8373ac76c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "6f29d64c-e8dc-eb73-93c0-b333d167d77c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Top Down.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "95e6767e-edd1-41ea-a0c1-4d94536383a8": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Microgue",
+        "thumbnail": "ea160c05-2136-1a5a-1ebd-f6ad93b47c55",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "b927c5bb-6f97-f18f-13e0-2f7940f5733a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Microgue.scene.nasset"
+    },
+    "ea160c05-2136-1a5a-1ebd-f6ad93b47c55": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Microgue_Thumb.tex.nasset"
+    },
+    "guid": "43ef0cfe-1c60-8d6a-70ca-35f8373ac76c"
+}
